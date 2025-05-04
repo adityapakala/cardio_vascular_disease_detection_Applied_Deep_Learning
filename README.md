@@ -90,12 +90,11 @@ This project was completed for the course **BUAN 6382: Applied Deep Learning** a
 
 ## 👥 Authors
 
-Aditya Pakala and Team  
-MS in Information Technology and Management  
+Aditya Pakala   
 The University of Texas at Dallas
 
 ---
 
 ## 📬 Questions?
 
-Please contact the course instructor or TA if you have any issues running the notebook or reproducing results.
+Please contact Aditya @ pakalaaditya@gmail.com if you have any issues running the notebook or reproducing results.
